@@ -1,0 +1,48 @@
+.Home {
+  width: 100%;
+  min-height: 100vh;
+  position: relative;
+  background: 
+  linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 10;
+  transition: filter 0.3s ease, opacity 0.3s ease;
+  &::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url(../img/bg.jpg) center center /cover no-repeat;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+    z-index: -1;
+  }
+  &.bg-loaded::after {
+    opacity: 1;
+  }
+  .Home-content {
+    position: absolute;
+    top: 15%;
+    z-index: 1;
+    opacity: 0;
+    h2 {
+      font-size: 32px;
+      margin-bottom: 30px;
+      span {
+        font-size: 3rem;
+        font-weight: 700;
+      }
+    }
+    h3 {
+      font-size: 32px;
+      margin-bottom: 30px;
+    }
+    img {
+      position: absolute;
+      bottom: -350%;
+      left: 18%;
+      width: 350px;
+    }
+  }
+}

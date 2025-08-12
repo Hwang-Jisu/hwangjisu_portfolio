@@ -1,0 +1,26 @@
+.interview {
+  padding: 60px 20px;
+  h3 {
+    text-align: center;
+    font-size: 3rem;
+    margin-bottom: 40px;
+  }
+  .qa {
+    max-width: 1320px;
+    margin: 30px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+    h4:first-child {
+      font-size: 2rem;
+      font-weight: bold;
+      margin-bottom: 30px;
+    }
+    h4:last-child {
+      font-size: 1.3rem;
+      font-weight: normal;
+      line-height: 1.5;
+    }
+  }
+}
