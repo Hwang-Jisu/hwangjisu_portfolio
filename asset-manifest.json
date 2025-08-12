@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hwangjisu_portfolio/static/css/main.bdfed63b.css",
-    "main.js": "/hwangjisu_portfolio/static/js/main.a1957b3e.js",
+    "main.css": "/hwangjisu_portfolio/static/css/main.818aadba.css",
+    "main.js": "/hwangjisu_portfolio/static/js/main.6f2f9e2c.js",
     "static/media/profile.jpg": "/hwangjisu_portfolio/static/media/profile.1baf6dc5e2c4616baa5c.jpg",
     "static/media/fa-solid-900.woff2": "/hwangjisu_portfolio/static/media/fa-solid-900.f54756da1f3d1b88887f.woff2",
     "static/media/character2.png": "/hwangjisu_portfolio/static/media/character2.fdc02bb15b0db11e10fd.png",
@@ -10,11 +10,11 @@
     "static/media/project5.jpg": "/hwangjisu_portfolio/static/media/project5.b60d89fb513a951b6646.jpg",
     "static/media/bg.jpg": "/hwangjisu_portfolio/static/media/bg.c43e34a349bedda06929.jpg",
     "index.html": "/hwangjisu_portfolio/index.html",
-    "main.bdfed63b.css.map": "/hwangjisu_portfolio/static/css/main.bdfed63b.css.map",
-    "main.a1957b3e.js.map": "/hwangjisu_portfolio/static/js/main.a1957b3e.js.map"
+    "main.818aadba.css.map": "/hwangjisu_portfolio/static/css/main.818aadba.css.map",
+    "main.6f2f9e2c.js.map": "/hwangjisu_portfolio/static/js/main.6f2f9e2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdfed63b.css",
-    "static/js/main.a1957b3e.js"
+    "static/css/main.818aadba.css",
+    "static/js/main.6f2f9e2c.js"
   ]
 }
