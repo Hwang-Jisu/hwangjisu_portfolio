@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hwangjisu_portfolio/static/css/main.1dc9d6ed.css",
-    "main.js": "/hwangjisu_portfolio/static/js/main.f98541c3.js",
+    "main.js": "/hwangjisu_portfolio/static/js/main.fabbdb16.js",
     "static/media/project2.png": "/hwangjisu_portfolio/static/media/project2.06bbd9066b0f5ce7bd30.png",
     "static/media/project3.png": "/hwangjisu_portfolio/static/media/project3.992b1a7838a7219306ac.png",
     "static/media/project4.png": "/hwangjisu_portfolio/static/media/project4.de2018ec3f890e48457d.png",
@@ -18,10 +18,10 @@
     "static/media/project1.png": "/hwangjisu_portfolio/static/media/project1.c6bfe2cc785aca7c3076.png",
     "index.html": "/hwangjisu_portfolio/index.html",
     "main.1dc9d6ed.css.map": "/hwangjisu_portfolio/static/css/main.1dc9d6ed.css.map",
-    "main.f98541c3.js.map": "/hwangjisu_portfolio/static/js/main.f98541c3.js.map"
+    "main.fabbdb16.js.map": "/hwangjisu_portfolio/static/js/main.fabbdb16.js.map"
   },
   "entrypoints": [
     "static/css/main.1dc9d6ed.css",
-    "static/js/main.f98541c3.js"
+    "static/js/main.fabbdb16.js"
   ]
 }
